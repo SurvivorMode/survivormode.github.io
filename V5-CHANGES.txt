@@ -1,0 +1,9 @@
+V5 CORRECTIONS
+================
+
+- Corrected the $109 six-pack to six 6-inch single-hole lids.
+- Replaced the flagship six-pack image with the real single-hole installed lid photo.
+- Updated cart and sticky-bar product names.
+- Removed internal builder/ChatGPT-style commentary.
+- Rewrote affected sections as customer-facing storefront copy.
+- Clarified the FAQ and hero description.

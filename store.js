@@ -1,5 +1,5 @@
 const PRODUCTS = {
-  "lid-set-6": { name: "Stainless Lid Set — 6 Pack", price: 109.00, checkout: "" },
+  "lid-set-6": { name: "6-Inch Single-Hole Lid Set — 6 Pack", price: 109.00, checkout: "" },
   "single-four-hole": { name: "Single Four-Hole Stainless Lid", price: 19.99, checkout: "" },
   "germination-kit": { name: "Complete Germination Kit", price: 49.95, checkout: "" },
   "bamboo-container": { name: "Bamboo Germination Container", price: 29.99, checkout: "" }
