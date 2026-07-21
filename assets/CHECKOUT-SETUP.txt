@@ -1,0 +1,18 @@
+NEXT REQUIRED VALUES
+====================
+
+The code is complete, but Stripe and Cloudflare require account-specific IDs.
+
+From Stripe:
+- STRIPE_PRICE_LID_SET_6
+- STRIPE_PRICE_SINGLE_FOUR_HOLE
+- STRIPE_PRICE_GERMINATION_KIT
+- STRIPE_PRICE_BAMBOO_CONTAINER
+- STRIPE_SECRET_KEY
+- Optional STRIPE_SHIPPING_RATE_ID
+
+From Cloudflare after deployment:
+- CHECKOUT_API_URL
+
+Do not send or paste your Stripe secret key into chat.
+Enter it directly in Cloudflare as an encrypted Secret.

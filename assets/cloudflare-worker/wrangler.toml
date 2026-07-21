@@ -1,0 +1,18 @@
+name = "smg-stripe-checkout"
+main = "src/index.js"
+compatibility_date = "2026-07-21"
+
+[vars]
+STOREFRONT_URL = "https://survivalmodegrows.com"
+ENABLE_AUTOMATIC_TAX = "false"
+
+# Add non-secret Stripe Price IDs in the Cloudflare dashboard or uncomment
+# these after replacing the placeholders:
+#
+# STRIPE_PRICE_LID_SET_6 = "price_..."
+# STRIPE_PRICE_SINGLE_FOUR_HOLE = "price_..."
+# STRIPE_PRICE_GERMINATION_KIT = "price_..."
+# STRIPE_PRICE_BAMBOO_CONTAINER = "price_..."
+#
+# Optional:
+# STRIPE_SHIPPING_RATE_ID = "shr_..."
